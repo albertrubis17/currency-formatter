@@ -1,6 +1,6 @@
 /*
 * Currency Formatter
-*
+* version 1.0
 */
 
 (function($){
